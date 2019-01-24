@@ -1,2 +1,1 @@
-# Informaticsbuu
-Iot line bot 
+# line-bot-informatics
